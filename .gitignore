@@ -1,0 +1,6 @@
+﻿test.csv
+sample.csv
+.env
+*.npz
+__pycache__/
+.ipynb_checkpoints/
